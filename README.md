@@ -27,6 +27,10 @@ source venv/bin/activate
 .\venv\Scripts\activate
 ```
 
+### Instale as dependências
+
+    pip install -r requirements.txt
+
 ### Rode a aplicação
 
     python manage.py runserver
